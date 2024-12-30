@@ -1,5 +1,5 @@
 
-import "./app.css";
+import "./App.css"
 import { useState } from "react";
 import CalendarGrid from "./components/CalendarGrid";
 import { formatDate } from "./utils/dateUtils";
