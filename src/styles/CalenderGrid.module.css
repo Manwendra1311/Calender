@@ -1,0 +1,21 @@
+.button{
+    border: none;
+    background-color: #638C6D;
+    padding: 5px;
+    min-width: 50px;
+    color: #fff;
+}
+
+.button:focus { outline: none; }
+
+.highlight {
+    background-color: #074799;
+    color: #fff;
+  }
+
+  .selected {
+    border: 2px solid #4caf50;
+    background-color: #F8FAFC;
+  }
+  
+
